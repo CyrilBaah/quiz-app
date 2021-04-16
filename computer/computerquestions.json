@@ -1,0 +1,27 @@
+[
+    {
+      "question": "Is JavaScript the same as Java?",
+      "choice1": "No",
+      "choice2": "Yes",
+      "choice3": "Maybe",
+      "choice4": "None of the above",
+      "answer": 1
+    },
+    {
+      "question": "Who is the created Java?",
+      "choice1": "Donal Trump",
+      "choice2": "Pablo Piccaso",
+      "choice3": "James Gosling",
+      "choice4": "Elon Musk",
+      "answer": 3
+    },
+    {
+      "question": "IBM stands for ",
+      "choice1": "International Business Man",
+      "choice2": "No idea",
+      "choice3": "Internet Business Money",
+      "choice4": "International Business Machine",
+      "answer": 4
+    }
+  ]
+  

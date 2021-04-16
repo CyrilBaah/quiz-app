@@ -1,0 +1,27 @@
+[
+    {
+      "question": "What is the name of the President of Ghana?",
+      "choice1": "Donald Trump",
+      "choice2": "Nana Addo",
+      "choice3": "John Mahama",
+      "choice4": "none of the above",
+      "answer": 2
+    },
+    {
+      "question": "How many legs does a dogs have?",
+      "choice1": "Four",
+      "choice2": "Five",
+      "choice3": "Six",
+      "choice4": "Seven",
+      "answer": 1
+    },
+    {
+      "question": "What is the capital of Ghana",
+      "choice1": "Kumasi",
+      "choice2": "Accra",
+      "choice3": "Ho",
+      "choice4": "Greater Accra",
+      "answer": 4
+    }
+  ]
+  
